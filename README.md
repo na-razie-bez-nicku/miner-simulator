@@ -1,1 +1,1 @@
-# miner-simulator
+# Miner Simulator
